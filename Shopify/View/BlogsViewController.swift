@@ -93,7 +93,7 @@ class BlogsViewController: UIViewController,NetworkReachabilityProtocol {
     }
 }
 
-//MARK:- UITableViewDelegate and UITableViewDatasource
+//MARK: UITableViewDelegate and UITableViewDatasource
 extension BlogsViewController: UITableViewDelegate, UITableViewDataSource {
     
     //MARK: tableView: numberOfRowsInSection
